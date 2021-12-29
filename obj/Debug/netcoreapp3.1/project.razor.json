@@ -14402,8 +14402,8 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Marcia\\Desktop\\Biblioteca\\Views\\Usuarios\\CadastroRealizado.cshtml",
-      "TargetPath": "Views\\Usuarios\\CadastroRealizado.cshtml",
+      "FilePath": "c:\\Users\\Marcia\\Desktop\\Biblioteca\\Views\\Usuarios\\cadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\cadastroRealizado.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14417,8 +14417,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Marcia\\Desktop\\Biblioteca\\Views\\Usuarios\\listaDeUsuarios.cshtml",
-      "TargetPath": "Views\\Usuarios\\listaDeUsuarios.cshtml",
+      "FilePath": "c:\\Users\\Marcia\\Desktop\\Biblioteca\\Views\\Usuarios\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\ListaDeUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
